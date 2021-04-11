@@ -1,6 +1,3 @@
-# INSTA_BOT
-Robo para automatizar funções do instagram (follow, unfollow, likes, comments)
-
 from instapy import InstaPy
 from instapy import smart_run
 
